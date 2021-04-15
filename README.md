@@ -74,9 +74,12 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
    
 1. (arXiv 2020) **CausaLM: Causal Model Explanation Through Counterfactual Language Models.** _Amir Feder, Nadav Oved, Uri Shalit and Roi Reichart_. [[pdf](https://arxiv.org/pdf/2005.13407.pdf)]
    
-### Causal Relation Extraction
+### Causal Relation Extraction/Generation/Classification
 1. **CREST: A Causal Relation Schema for Text (A repo containing datasets for causal/counterfactual relation extraction)** _Pedram Hosseini_. [[GitHub](https://github.com/phosseini/CREST)]
    <br>[Summary] CausalRE datasets: SemEval 2007 Task 4 (114 causal sentences), SemEval 2021 Task 8 (1,331), EventCausality (485), Causal-TimeBank (318), EventStoryLine v1.5 (2,608), CaTeRS (308), BECauSE v2.1 (554), Choice of Plausible Alternatives (COPA) (1,000), The Penn Discourse Treebank (PDTB) 3.0 (7,991).
+
+1. (IJCAI 2020) **Guided Generation of Cause and Effect** _Zhongyang Li, Xiao Ding, Ting Liu, J. Edward Hu, Benjamin Van Durme_ [[pdf](https://www.ijcai.org/proceedings/2020/0502.pdf)]
+   <br>[Summary] Introduced two new resources: CausalBank and Cause Effect Graph.
 ## 3. Causality for Various Applications
 ### 3.1 Persuasion
 1. (arXiv 2020) **Influence via Ethos: On the Persuasive Power of Reputation in Deliberation Online.** _Emaad Manzoor, George H. Chen, Dokyun Lee, Michael D. Smith_. [[pdf](https://arxiv.org/pdf/2006.00707.pdf)]
@@ -113,7 +116,7 @@ _Dhanya Sridhar, Aaron Springer, Victoria Hollis, Steve Whittaker, Lise Getoor_.
 
 1. (Psychological Science 2019) **Increasing vegetable intake by emphasizing tasty and enjoyable attributes: A randomized controlled multisite intervention for taste-focused labeling.** _
 Bradley Turnwald, Jaclyn Bertoldo, Margaret Perry, Peggy Policastro, Maureen Timmons, Christopher Bosso, Priscilla Connors, Robert Valgenti, Lindsey Pine, Ghislaine Challamel, Christopher Gardner, Alia Crum_. [pdf](https://journals.sagepub.com/doi/pdf/10.1177/0956797619872191)
-   <br>[Summary] Cause: taste-focused lables, or health-focused labels, effect: vegetable intake. Method: RCT.
+   <br>[Summary] Cause: taste-focused labels, or health-focused labels, effect: vegetable intake. Method: RCT.
 ### 3.3 Economics
 1. (arXiv 2017) **A deep causal inference approach to measuring the effects of forming group loans in online non-profit microfinance platform.**
 _Thai T Pham and Yuanyuan Shen_. [[pdf](https://arxiv.org/pdf/1706.02795.pdf)]
