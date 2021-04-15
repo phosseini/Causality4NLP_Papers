@@ -31,7 +31,8 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
   - [5.5 Online Courses](#55-online-courses)
   - [5.6 People Directory](#56-people-directory)
   - [5.7 Workshops](#57-workshops)
-  - [5.8 Others](#58-others)
+  - [5.8 Dissertation](#58-dissertation)
+  - [5.9 Others](#59-others)
 - [Contributions](#contributions)
 - [How to Cite This Repo](#How-to-Cite-This-Repo)
 
@@ -262,7 +263,10 @@ _Margaret E Roberts, Brandon M Stewart, and Richard A Nielsen_. [[pdf](http://ww
 
 Please see this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1byIwl_hI-kVtxyTsNcNd6SQRQXJ3CO4xZszDIgFMtIM/edit#gid=416373885) for a list of causality workshops (2016 - now). 
 
-### 5.8 Others
+### 5.8 Dissertation
+1. (2018) **Annotating and Automatically Tagging Constructions of Causal Language** _Jesse Dunietz_ [[pdf](https://jessedunietz.com/assets/publications/thesis.pdf)]
+
+### 5.9 Others
 
 - Job postings for causality researchers: [[website](https://sites.google.com/view/ocis/opportunities-in-causal-inference)]
 - [*Causality notes*](https://docs.google.com/document/d/1nsN7KMAWhxENpSIxzBwcPaflPKra-1gr9TdPqXjLmb8/edit) by Tailin Wu
