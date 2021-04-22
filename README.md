@@ -270,7 +270,8 @@ _Margaret E Roberts, Brandon M Stewart, and Richard A Nielsen_. [[pdf](http://ww
 Please see this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1byIwl_hI-kVtxyTsNcNd6SQRQXJ3CO4xZszDIgFMtIM/edit#gid=416373885) for a list of causality workshops (2016 - now). 
 
 ### 5.8 Dissertation
-1. (2018) **Annotating and Automatically Tagging Constructions of Causal Language** _Jesse Dunietz_ [[pdf](https://jessedunietz.com/assets/publications/thesis.pdf)]
+1. (2018) **Annotating and Automatically Tagging Constructions of Causal Language.** _Jesse Dunietz._ [[pdf](https://jessedunietz.com/assets/publications/thesis.pdf)]
+1. (1995) **Automatic identification of causal relations in text and their use for improving precision in information retrieval.** _Christopher Soo-Guan Khoo._ [[link](https://surface.syr.edu/it_etd/36/)]
 
 ### 5.9 Others
 
