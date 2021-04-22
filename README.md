@@ -80,7 +80,8 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 1. (IJCAI 2020) **Guided Generation of Cause and Effect** _Zhongyang Li, Xiao Ding, Ting Liu, J. Edward Hu, Benjamin Van Durme_ [[pdf](https://www.ijcai.org/proceedings/2020/0502.pdf)]
    <br>[Summary] Introduced two new resources: CausalBank and Cause Effect Graph.
-1. (LREC 2008) **Causal Relation Extraction** _Eduardo Blanco, Nuria Castell, Dan Moldovan_ [[pdf](http://www.lrec-conf.org/proceedings/lrec2008/pdf/87_paper.pdf)]
+1. (EMNLP 2011) **Minimally Supervised Event Causality Identification** _Quang Do, Yee Seng Chan, Dan Roth_ [[pdf](https://www.aclweb.org/anthology/D11-1027.pdf)]
+1. (LREC 2008) **Causal Relation Extraction** _Eduardo Blanco, Nuria Castell, Dan Moldovan_ [[pdf](http://www.lrec-conf.org/proceedings/lrec2008/pdf/87_paper.pdf)] 
 
 ## 3. Causality for Various Applications
 ### 3.1 Persuasion
