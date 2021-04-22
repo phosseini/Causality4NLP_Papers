@@ -78,10 +78,10 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 1. **CREST: A Causal Relation Schema for Text (A repo containing datasets for causal/counterfactual relation extraction)** _Pedram Hosseini_. [[GitHub](https://github.com/phosseini/CREST)]
    <br>[Summary] CausalRE datasets: SemEval 2007 Task 4 (114 causal sentences), SemEval 2021 Task 8 (1,331), EventCausality (485), Causal-TimeBank (318), EventStoryLine v1.5 (2,608), CaTeRS (308), BECauSE v2.1 (554), Choice of Plausible Alternatives (COPA) (1,000), The Penn Discourse Treebank (PDTB) 3.0 (7,991).
 
-1. (IJCAI 2020) **Guided Generation of Cause and Effect** _Zhongyang Li, Xiao Ding, Ting Liu, J. Edward Hu, Benjamin Van Durme_ [[pdf](https://www.ijcai.org/proceedings/2020/0502.pdf)]
+1. (IJCAI 2020) **Guided Generation of Cause and Effect.** _Zhongyang Li, Xiao Ding, Ting Liu, J. Edward Hu, Benjamin Van Durme._ [[pdf](https://www.ijcai.org/proceedings/2020/0502.pdf)]
    <br>[Summary] Introduced two new resources: CausalBank and Cause Effect Graph.
-1. (EMNLP 2011) **Minimally Supervised Event Causality Identification** _Quang Do, Yee Seng Chan, Dan Roth_ [[pdf](https://www.aclweb.org/anthology/D11-1027.pdf)]
-1. (LREC 2008) **Causal Relation Extraction** _Eduardo Blanco, Nuria Castell, Dan Moldovan_ [[pdf](http://www.lrec-conf.org/proceedings/lrec2008/pdf/87_paper.pdf)] 
+1. (EMNLP 2011) **Minimally Supervised Event Causality Identification.** _Quang Do, Yee Seng Chan, Dan Roth._ [[pdf](https://www.aclweb.org/anthology/D11-1027.pdf)]
+1. (LREC 2008) **Causal Relation Extraction.** _Eduardo Blanco, Nuria Castell, Dan Moldovan._ [[pdf](http://www.lrec-conf.org/proceedings/lrec2008/pdf/87_paper.pdf)] 
 
 ## 3. Causality for Various Applications
 ### 3.1 Persuasion
